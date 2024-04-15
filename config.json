@@ -1,0 +1,11 @@
+{
+  "port": 8080,
+  "mongo": {
+    "uri": "mongodb://mongo:27017",
+    "db": "qzy"
+  },
+  "jwt": {
+    "secret": "ArLFhe3EmD7s8cBav5x6fzXMYqSW9bZt",
+    "algorithms": [ "HS256" ]
+  }
+}
